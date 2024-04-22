@@ -17,7 +17,4 @@ While this repository primarily showcases my class work, I'm open to contributio
 ## Get in Touch
 Have questions or just want to connect? Feel free to reach out to me. You can contact me at chisvoallen02@gmail.com. I'm always eager to engage with fellow learners and Java enthusiasts.
 
-## License
-This repository is licensed under the [LICENSE](LICENSE). Feel free to explore, learn from, and adapt the exercises to suit your own learning goals.
-
 Thank you for joining me on this Java coding journey. Let's dive in and write some awesome Java code together!
